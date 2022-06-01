@@ -4,3 +4,4 @@ repo = "https://github.com/Azzaare/IIJulia.git"
 description = "Registry for private Julia packages within IIJ research lab"
 
 [packages]
+b681f84e-bd48-4deb-8595-d3e0ff1e4a55 = { name = "KuMo", path = "K/KuMo" }
