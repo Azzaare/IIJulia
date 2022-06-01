@@ -1,0 +1,6 @@
+name = "IIJulia"
+uuid = "0d9cc58f-dead-4a39-b42b-00bb5ec864fa"
+repo = "https://github.com/Azzaare/IIJulia.git"
+description = "Registry for private Julia packages within IIJ research lab"
+
+[packages]
