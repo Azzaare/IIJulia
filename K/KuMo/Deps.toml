@@ -12,3 +12,7 @@ Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 SimpleTraits = "699a6c99-e7fa-54fc-8d76-47d257e15c1d"
 SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 StatsPlots = "f3b207a7-027a-5e70-b257-86293d7955fd"
+
+["0.1.2-0"]
+PGFPlotsX = "8314cec4-20b6-5062-9cdb-752b83310925"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
