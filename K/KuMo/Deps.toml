@@ -22,5 +22,8 @@ PGFPlotsX = "8314cec4-20b6-5062-9cdb-752b83310925"
 ["0.1.21-0"]
 RecipesBase = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"
 
+["0.1.25-0"]
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+
 ["0.1.5-0"]
 DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
