@@ -4,5 +4,6 @@ repo = "https://github.com/Azzaare/IIJulia.git"
 description = "Registry for private Julia packages within IIJ research lab"
 
 [packages]
+9f0a2b14-dc19-46fc-96b5-379fb5e79ff7 = { name = "HeterogeneousCluster", path = "H/HeterogeneousCluster" }
 b5c134b0-5714-4a2a-9942-f8ce3d227e0f = { name = "KuMoVisualize", path = "K/KuMoVisualize" }
 b681f84e-bd48-4deb-8595-d3e0ff1e4a55 = { name = "KuMo", path = "K/KuMo" }
